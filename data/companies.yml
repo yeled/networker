@@ -26,6 +26,9 @@ upcloud:
   asn:
     - 25697
   site: https://upcloud.com/
+exonet:
+  name: Exonet B.V.
+  site: https://exonet.nl
 as1213:
   asn: 1213
   name: HEAnet
