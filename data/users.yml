@@ -2099,3 +2099,10 @@ Michael_wd6:
   full_name: Michaël Jonkers
   rir_handle: 
     - MJ84126-RIPE
+Cynthia:
+  companies:
+    - as57782
+  country: se
+  full_name: "Cynthia Revström"
+  rir_handle:
+    - CMR-RIPE
