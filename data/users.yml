@@ -2106,3 +2106,9 @@ Cynthia:
   full_name: "Cynthia Revström"
   rir_handle:
     - CMR-RIPE
+sym:
+  companies:
+    - as48635
+  full_name: "Tom Tunberg"
+  country: nl
+  
