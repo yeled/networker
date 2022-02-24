@@ -442,7 +442,8 @@ Rawplayer:
   rir_handle: []
 RichiH:
   companies:
-  - as48918
+  - fosdem
+  - grafana
   country: de
   full_name: Richard Hartmann
   rir_handle:
