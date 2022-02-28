@@ -26,6 +26,14 @@ upcloud:
   asn:
     - 25697
   site: https://upcloud.com/
+fosdem:
+  name: FOSDEM
+  asn:
+    - 62392
+  site: https://fosdem.org/
+grafana:
+  name: Grafana Labs
+  site: https://grafana.com/
 as1213:
   asn: 1213
   name: HEAnet
