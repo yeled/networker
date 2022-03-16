@@ -1195,6 +1195,12 @@ hlkv6:
   full_name: Henrik Kramshoej
   rir_handle:
   - HLK1-RIPE
+ichilton:
+  companies:
+  - as8330
+  country: gb
+  full_name: Ian Chilton
+  rir_handle: []
 ioio:
   companies: []
   country: gb
