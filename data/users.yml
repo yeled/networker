@@ -412,15 +412,16 @@ Perseus:
   full_name: Lars L. Christensen
   rir_handle:
   - LLC11-RIPE
-PorCus_AS25091:
+PorCus_AS2613:
   companies:
   - as2613
   - as25091
+  - as41882
   country: ch
   full_name: Will van Gulik
   rir_handle:
   - WVG88-RIPE
-  - WMAX8-RIPE
+  - WVG101-RIPE
 Rance:
   companies:
   - as16807
