@@ -101,6 +101,16 @@ Da_P:
   full_name: Pim van Pelt
   rir_handle:
   - PBVP1-RIPE
+davidc:
+  companies:
+    - as8330
+    - as39767
+    - as42579
+    - as60079
+  country: eu
+  full_name: David Croft
+  rir_handle:
+    - DC5052-RIPE
 Daluege:
   companies:
   - as2819
@@ -776,7 +786,6 @@ andatche:
 andyd:
   companies:
   - as41230
-  - as8330
   - as51526
   - as44504
   country: gb
@@ -2030,6 +2039,7 @@ widell:
 will-h:
   companies:
   - as8330
+  - as60079
   country: gb
   full_name: Will Hargrave
   rir_handle: []
@@ -2119,4 +2129,4 @@ sym:
     - as48635
   full_name: "Tom Tunberg"
   country: nl
-  
+

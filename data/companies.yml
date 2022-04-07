@@ -767,6 +767,7 @@ as8319:
 as8330:
   asn: 8330
   name: LONAP Ltd
+  site: https://www.lonap.net/
 as8365:
   asn: 8365
   name: Man-da.de GmbH
@@ -846,4 +847,15 @@ as48635:
   asn: 48635
   name: Tom Tunberg
   site: https://insight.tv
-  
+as39767:
+  asn: 39767
+  name: Sargasso (UK)
+  site: http://www.sargasso.net.uk/
+as42579:
+  asn: 42579
+  name: Sargasso (EU)
+  site: http://www.sargasso.net.uk/
+as60079:
+  asn: 60079
+  name: Electromagnetic Field
+  site: https://www.emfcamp.org/
