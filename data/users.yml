@@ -178,8 +178,8 @@ Eimann:
   - DB8026-RIPE
 Eising:
   companies:
-  - as2603
-  country: dk
+  - as25400
+  country: 'no'
   full_name: Allan Eising
   rir_handle: []
 Evo--:
