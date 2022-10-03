@@ -1986,10 +1986,10 @@ tlabs:
   - AW752-RIPE
 tlund:
   companies:
-  - as1257
+  - as8674
   - as31337
   country: se
-  full_name: Tomas Lund
+  full_name: Tomas Agartz
   rir_handle:
   - TL940-RIPE
   - TLND-RIPE
