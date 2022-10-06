@@ -788,7 +788,8 @@ as8607:
   name: Timico Limited
 as8674:
   asn: 8674
-  name: NETNOD Internet Exchange i Sverige AB
+  name: Netnod AB
+  site: https://www.netnod.se/
 as8677:
   asn: 8677
   name: Worldline SA
