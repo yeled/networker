@@ -7,6 +7,12 @@ breedband:
   name: Breedband B.V.
   asn: 5524
   site: https://breedband.nl
+exonet:
+  name: Exonet B.V.
+  site: https://exonet.nl
+spl:
+  name: SPL B.V.
+  site: https://spl.nl
 embark:
   name: Embark Studios
   asn: 58317
