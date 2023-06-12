@@ -13,6 +13,9 @@ exonet:
 spl:
   name: SPL B.V.
   site: https://spl.nl
+netadmin:
+  name: Netadmin Systems
+  site: https://www.netadminsystems.com/
 embark:
   name: Embark Studios
   asn: 58317
