@@ -2135,4 +2135,11 @@ sym:
     - as48635
   full_name: "Tom Tunberg"
   country: nl
+jsalo:
+  companies:
+    - as49282
+  country: fi
+  full_name: "Jari Salo"
+  rir_handle:
+    - JS24207-RIPE
 
