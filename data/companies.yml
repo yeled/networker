@@ -696,6 +696,12 @@ as5400:
 as5401:
   asn: 5401
   name: Daniel Roesen
+as5405:
+  name: Inter.link GmbH
+  asn:
+    - 5405
+    - 25291
+  site: https://inter.link/
 as5413:
   asn: 5413
   name: Daisy Communications Ltd
