@@ -2142,4 +2142,9 @@ jsalo:
   full_name: "Jari Salo"
   rir_handle:
     - JS24207-RIPE
-
+jwbensley:
+  full_name: James Bensley
+  country: DE
+  rir_handle: JBIL-RIPE
+  companies:
+  - as5405
