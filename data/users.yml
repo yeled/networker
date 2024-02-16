@@ -1108,6 +1108,7 @@ falk:
 fhibler:
   companies:
   - as251
+  - as55064
   country: de
   full_name: Florian Hibler
   rir_handle:
@@ -2148,3 +2149,9 @@ jwbensley:
   rir_handle: JBIL-RIPE
   companies:
   - as5405
+vincentz:
+  companies:
+     - as55064
+  country: de
+  full_name: Vincentz Petzholtz
+  rir_handle: []

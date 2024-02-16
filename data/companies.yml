@@ -883,3 +883,8 @@ as6893:
   asn: 6893
   name: Saitis Networks
   site: https://www.saitis.net
+as55064:
+  asn: 55064
+  name: Arista Networks
+  site: https://www.arista.com
+  
