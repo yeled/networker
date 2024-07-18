@@ -977,10 +977,11 @@ danysek:
   full_name: Daniel Suchy
   rir_handle:
   - DANN-RIPE
-darkkis`:
+darkkis:
   companies:
-  - as51164
-  - as20574
+  - as42708
+  - as48618
+  - as39484
   country: fi
   full_name: Mika Ahoniemi
   rir_handle:
