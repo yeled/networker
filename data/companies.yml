@@ -1,21 +1,8 @@
 ---
-fastly:
-  Name: Fastly
-  asn: 54113
-  site: https://www.fastly.com
 breedband:
   name: Breedband B.V.
   asn: 5524
   site: https://breedband.nl
-exonet:
-  name: Exonet B.V.
-  site: https://exonet.nl
-spl:
-  name: SPL B.V.
-  site: https://spl.nl
-netadmin:
-  name: Netadmin Systems
-  site: https://www.netadminsystems.com/
 embark:
   name: Embark Studios
   asn: 58317
@@ -23,29 +10,236 @@ embark:
 evilforbeginners:
   name: evilforbeginners
   asn:
-    - 47988
+  - 47988
   site: https://evilforbeginners.com/
-github:
-  name: GitHub Inc.
-  asn:
-    - 36459
-  site: https://github.com/
-upcloud:
-  name: UpCloud USA Inc
-  asn:
-    - 25697
-  site: https://upcloud.com/
+exonet:
+  name: Exonet B.V.
+  site: https://exonet.nl
+fastly:
+  Name: Fastly
+  asn: 54113
+  site: https://www.fastly.com
 fosdem:
   name: FOSDEM
   asn:
-    - 62392
+  - 62392
   site: https://fosdem.org/
+github:
+  name: GitHub Inc.
+  asn:
+  - 36459
+  site: https://github.com/
 grafana:
   name: Grafana Labs
   site: https://grafana.com/
+netadmin:
+  name: Netadmin Systems
+  site: https://www.netadminsystems.com/
+openbsd:
+  name: OpenBSD
+  site: https://openbsd.org/
+peeringdb:
+  name: PeeringDB
+  site: https://peeringdb.com/
+spl:
+  name: SPL B.V.
+  site: https://spl.nl
+upcloud:
+  name: UpCloud USA Inc
+  asn:
+  - 25697
+  site: https://upcloud.com/
+as251:
+  asn: 251
+  name: Denis Klimek
+as286:
+  asn: 286
+  name: KPN B.V.
+as517:
+  asn: 517
+  name: KPN B.V.
+as719:
+  asn: 719
+  name: Elisa Oyj
+as790:
+  asn: 790
+  name: Elisa Oyj
 as1213:
   asn: 1213
   name: HEAnet
+as1248:
+  asn: 1248
+  name: HERE Global BV
+as1299:
+  asn: 1299
+  name: Telia Company AB
+as2128:
+  asn: 2128
+  name: Internet Neutral Exchange Association Company Limited By Guarantee
+as2603:
+  asn: 2603
+  name: NORDUnet
+as2613:
+  asn: 2613
+  name: Willem van Gulik
+as2792:
+  asn: 2792
+  name: Deutsche Telekom AG
+as2818:
+  asn: 2818
+  name: BBC
+as2819:
+  asn: 2819
+  name: T-Mobile Czech Republic a.s.
+as2856:
+  asn: 2856
+  name: British Telecommunications PLC
+as2859:
+  asn: 2859
+  name: Resilans AB
+as2863:
+  asn: 2863
+  name: Centor AB
+as2914:
+  asn: 2914
+  name: NTT GIN
+  site: https://www.gin.ntt.net/
+as3222:
+  asn: 3222
+  name: Cinia Oy
+as3246:
+  asn: 3246
+  name: Tele2 Sverige AB
+as3257:
+  asn: 3257
+  name: GTT Communications Inc.
+as3265:
+  asn: 3265
+  name: Xs4all Internet BV
+as3292:
+  asn: 3292
+  name: TDC A/S
+as3301:
+  asn: 3301
+  name: Telia Company AB
+as3320:
+  asn: 3320
+  name: Deutsche Telekom AG
+as3333:
+  asn: 3333
+  name: Reseaux IP Europeens Network Coordination Centre (RIPE NCC)
+as3336:
+  asn: 3336
+  name: Elisa Oyj
+as5400:
+  asn: 5400
+  name: British Telecommunications PLC
+as5401:
+  asn: 5401
+  name: Daniel Roesen
+as5405:
+  name: Inter.link GmbH
+  asn: 5405
+  site: https://inter.link/
+as5413:
+  asn: 5413
+  name: Daisy Communications Ltd
+as5430:
+  asn: 5430
+  name: freenet Datenkommunikations GmbH
+as5524:
+  asn: 5524
+  name: Breedband B.V.
+as5580:
+  asn: 5580
+  name: GTT Netherlands B.V.
+as5588:
+  asn: 5588
+  name: T-Mobile Czech Republic a.s.
+as6667:
+  asn: 6667
+  name: Elisa Oyj
+as6677:
+  asn: 6677
+  name: Siminn hf
+as6724:
+  asn: 6724
+  name: Strato AG
+as6893:
+  asn: 6893
+  name: Saitis Networks
+  site: https://www.saitis.net
+as8251:
+  asn: 8251
+  name: FreeTel, s.r.o.
+as8283:
+  asn: 8283
+  name: Netwerkvereniging Coloclue
+as8312:
+  asn: 8312
+  name: Zylon Internet Services vof
+as8319:
+  asn: 8319
+  name: NETHINKS GmbH
+as8330:
+  asn: 8330
+  name: LONAP Ltd
+  site: https://www.lonap.net/
+as8365:
+  asn: 8365
+  name: Man-da.de GmbH
+as8426:
+  asn: 8426
+  name: ClaraNET LTD
+as8468:
+  asn: 8468
+  name: ENTANET International Limited
+as8473:
+  asn: 8473
+  name: Bahnhof AB
+as8607:
+  asn: 8607
+  name: Timico Limited
+as8674:
+  asn: 8674
+  name: Netnod AB
+  site: https://www.netnod.se/
+as8677:
+  asn: 8677
+  name: Worldline SA
+as8683:
+  asn: 8683
+  name: Nominet UK
+as8757:
+  asn: 8757
+  name: NSFOCUS, Inc.
+as8763:
+  asn: 8763
+  name: DENIC eG
+as8767:
+  asn: 8767
+  name: M-net Telekommunikations GmbH
+as8778:
+  asn: 8778
+  name: Slovanet a.s.
+as8897:
+  asn: 8897
+  name: KCOM GROUP LIMITED
+as8995:
+  asn: 8995
+  name: LM Jogback Datakonsult
+as9009:
+  asn: 9009
+  name: M247 Ltd
+as9033:
+  asn: 9033
+  name: Peering GmbH
+as9143:
+  asn: 9143
+  name: Ziggo B.V.
+as9145:
+  asn: 9145
+  name: EWE TEL GmbH
 as12337:
   asn: 12337
   name: noris network AG
@@ -61,9 +255,6 @@ as12414:
 as12472:
   asn: 12472
   name: Waycom International (SASU)
-as1248:
-  asn: 1248
-  name: HERE Global BV
 as12513:
   asn: 12513
   name: KCOM GROUP LIMITED
@@ -97,9 +288,6 @@ as12817:
 as12859:
   asn: 12859
   name: BIT BV
-as1299:
-  asn: 1299
-  name: Telia Company AB
 as13020:
   asn: 13020
   name: Chaos Computer Club Veranstaltungsgesellschaft mbH
@@ -151,45 +339,10 @@ as16265:
 as16273:
   asn: 16273
   name: F-Secure Oyj
-as196614:
-  asn: 196614
-  name: P.J. Jakma
-as196752:
-  asn: 196752
-  name: Tilaa B.V.
-as196944:
-  asn: 196944
-  name: NIC Hosting s.r.o.
-as197000:
-  asn: 197000
-  name: RIPE NCC (AuthDNS)
-as197032:
-  asn: 197032
-  name: TREX Regional Exchanges Oy
-as197541:
-  asn: 197541
-  name: Ooyala AB
-as197731:
-  asn: 197731
-  name: The Internet Engineering Group B.V.
-as197913:
-  asn: 197913
-  name: Cadence Networks Ltd
-as198013:
-  asn: 198013
-  name: Ipkom Srl
-as198543:
-  asn: 198543
-  name: MAC TV s.r.o.
-as199071:
-  asn: 199071
-  name: Jan Prunk K.D.
-as202053:
-  asn: 202053
-  name: UpCloud Ltd
-as203993:
-  asn: 203993
-  name: S.J.M. Steffann
+as20495:
+  asn: 20495
+  name: WD6.net B.V.
+  site: https://wd6.net
 as20507:
   asn: 20507
   name: Tele2 Nederland B.V.
@@ -205,12 +358,6 @@ as20562:
 as20626:
   asn: 20626
   name: Sandviken Energi AB
-as206477:
-  asn: 206477
-  name: Wolfined
-as206570:
-  asn: 206570
-  name: i3D.net B.V
 as20773:
   asn: 20773
   name: Host Europe GmbH
@@ -232,9 +379,6 @@ as21195:
 as21250:
   asn: 21250
   name: Bahnhof AB
-as2128:
-  asn: 2128
-  name: Internet Neutral Exchange Association Company Limited By Guarantee
 as21371:
   asn: 21371
   name: EQUINIX (SERVICES) LIMITED
@@ -265,9 +409,6 @@ as24990:
 as25091:
   asn: 25091
   name: IP-Max SA
-as251:
-  asn: 251
-  name: Denis Klimek
 as25152:
   asn: 25152
   name: RIPE NCC (K-Root)
@@ -283,33 +424,6 @@ as25473:
 as25542:
   asn: 25542
   name: Netspider Group B.V.
-as2603:
-  asn: 2603
-  name: NORDUnet
-as2613:
-  asn: 2613
-  name: Willem van Gulik
-as2792:
-  asn: 2792
-  name: Deutsche Telekom AG
-as2818:
-  asn: 2818
-  name: BBC
-as2819:
-  asn: 2819
-  name: T-Mobile Czech Republic a.s.
-as2856:
-  asn: 2856
-  name: British Telecommunications PLC
-as2859:
-  asn: 2859
-  name: Resilans AB
-as286:
-  asn: 286
-  name: KPN B.V.
-as2863:
-  asn: 2863
-  name: Centor AB
 as28707:
   asn: 28707
   name: Kangaroot BVBA
@@ -325,10 +439,6 @@ as28876:
 as29008:
   asn: 29008
   name: FAN Media GmbH
-as2914:
-  asn: 2914
-  name: NTT GIN
-  site: https://www.gin.ntt.net/
 as29154:
   asn: 29154
   name: Equinix (Finland) Oy
@@ -407,33 +517,6 @@ as31529:
 as31710:
   asn: 31710
   name: Grupul Industrial Roman GIR S.A.
-as3222:
-  asn: 3222
-  name: Cinia Oy
-as3246:
-  asn: 3246
-  name: Tele2 Sverige AB
-as3257:
-  asn: 3257
-  name: GTT Communications Inc.
-as3265:
-  asn: 3265
-  name: Xs4all Internet BV
-as3292:
-  asn: 3292
-  name: TDC A/S
-as3301:
-  asn: 3301
-  name: Telia Company AB
-as3320:
-  asn: 3320
-  name: Deutsche Telekom AG
-as3333:
-  asn: 3333
-  name: Reseaux IP Europeens Network Coordination Centre (RIPE NCC)
-as3336:
-  asn: 3336
-  name: Elisa Oyj
 as33886:
   asn: 33886
   name: Stockholm Internet eXchange AB
@@ -509,6 +592,10 @@ as39326:
 as39570:
   asn: 39570
   name: Loopia AB
+as39767:
+  asn: 39767
+  name: Sargasso (UK)
+  site: http://www.sargasso.net.uk/
 as39923:
   asn: 39923
   name: Unix-Solutions BVBA
@@ -537,6 +624,10 @@ as42096:
 as42227:
   asn: 42227
   name: Airwire Ltd
+as42579:
+  asn: 42579
+  name: Sargasso (EU)
+  site: http://www.sargasso.net.uk/
 as42695:
   asn: 42695
   name: City Network Hosting AB
@@ -624,6 +715,10 @@ as48514:
 as48522:
   asn: 48522
   name: CGl Nederland B.V.
+as48635:
+  asn: 48635
+  name: Tom Tunberg
+  site: https://insight.tv
 as49282:
   asn: 49282
   name: Ficolo Oy
@@ -681,42 +776,16 @@ as51468:
 as51526:
   asn: 51526
   name: IXLeeds Limited
-as517:
-  asn: 517
-  name: KPN B.V.
 as51728:
   asn: 51728
   name: Seltimil Oy
 as52088:
   asn: 52088
   name: portrix Systems GmbH
-as5400:
-  asn: 5400
-  name: British Telecommunications PLC
-as5401:
-  asn: 5401
-  name: Daniel Roesen
-as5405:
-  name: Inter.link GmbH
-  asn:
-    - 5405
-    - 25291
-  site: https://inter.link/
-as5413:
-  asn: 5413
-  name: Daisy Communications Ltd
-as5430:
-  asn: 5430
-  name: freenet Datenkommunikations GmbH
-as5524:
-  asn: 5524
-  name: Breedband B.V.
-as5580:
-  asn: 5580
-  name: GTT Netherlands B.V.
-as5588:
-  asn: 5588
-  name: T-Mobile Czech Republic a.s.
+as55064:
+  asn: 55064
+  name: Arista Networks
+  site: https://www.arista.com
 as56595:
   asn: 56595
   name: Fluency Communications Ltd
@@ -729,6 +798,10 @@ as57381:
 as57771:
   asn: 57771
   name: S.J.M. Steffann
+as57782:
+  asn: 57782
+  name: Cynthia Revstrom
+  site: https://cynthia.re/
 as58145:
   asn: 58145
   name: Magnus Fruehling
@@ -738,9 +811,17 @@ as58298:
 as59469:
   asn: 59469
   name: Sentia Denmark A/S
+as59715:
+  name: SBTAP
+  site: https://as59715.net
+  asn: 59715
 as59889:
   asn: 59889
   name: BusinessConnect bvba
+as60079:
+  asn: 60079
+  name: Electromagnetic Field
+  site: https://www.emfcamp.org/
 as60205:
   asn: 60205
   name: Magine AB
@@ -753,138 +834,59 @@ as61006:
 as61189:
   asn: 61189
   name: Elkdata OU
+as61282:
+  name: Brainmill
+  asn: 61282
+  site: https://neanet.se
 as64475:
   asn: 64475
   name: Freifunk Frankfurt am Main e.V.
-as6667:
-  asn: 6667
-  name: Elisa Oyj
-as6677:
-  asn: 6677
-  name: Siminn hf
-as6724:
-  asn: 6724
-  name: Strato AG
-as719:
-  asn: 719
-  name: Elisa Oyj
-as790:
-  asn: 790
-  name: Elisa Oyj
-as8251:
-  asn: 8251
-  name: FreeTel, s.r.o.
-as8283:
-  asn: 8283
-  name: Netwerkvereniging Coloclue
-as8312:
-  asn: 8312
-  name: Zylon Internet Services vof
-as8319:
-  asn: 8319
-  name: NETHINKS GmbH
-as8330:
-  asn: 8330
-  name: LONAP Ltd
-  site: https://www.lonap.net/
-as8365:
-  asn: 8365
-  name: Man-da.de GmbH
-as8426:
-  asn: 8426
-  name: ClaraNET LTD
-as8468:
-  asn: 8468
-  name: ENTANET International Limited
-as8473:
-  asn: 8473
-  name: Bahnhof AB
-as8607:
-  asn: 8607
-  name: Timico Limited
-as8674:
-  asn: 8674
-  name: Netnod AB
-  site: https://www.netnod.se/
-as8677:
-  asn: 8677
-  name: Worldline SA
-as8683:
-  asn: 8683
-  name: Nominet UK
-as8757:
-  asn: 8757
-  name: NSFOCUS, Inc.
-as8763:
-  asn: 8763
-  name: DENIC eG
-as8767:
-  asn: 8767
-  name: M-net Telekommunikations GmbH
-as8778:
-  asn: 8778
-  name: Slovanet a.s.
-as8897:
-  asn: 8897
-  name: KCOM GROUP LIMITED
-as8995:
-  asn: 8995
-  name: LM Jogback Datakonsult
-as9009:
-  asn: 9009
-  name: M247 Ltd
-as9033:
-  asn: 9033
-  name: Peering GmbH
-as9143:
-  asn: 9143
-  name: Ziggo B.V.
-as9145:
-  asn: 9145
-  name: EWE TEL GmbH
-openbsd:
-  name: OpenBSD
-  site: https://openbsd.org/
+as196614:
+  asn: 196614
+  name: P.J. Jakma
+as196752:
+  asn: 196752
+  name: Tilaa B.V.
+as196944:
+  asn: 196944
+  name: NIC Hosting s.r.o.
+as197000:
+  asn: 197000
+  name: RIPE NCC (AuthDNS)
+as197032:
+  asn: 197032
+  name: TREX Regional Exchanges Oy
+as197541:
+  asn: 197541
+  name: Ooyala AB
+as197731:
+  asn: 197731
+  name: The Internet Engineering Group B.V.
+as197913:
+  asn: 197913
+  name: Cadence Networks Ltd
+as198013:
+  asn: 198013
+  name: Ipkom Srl
+as198543:
+  asn: 198543
+  name: MAC TV s.r.o.
 as199036:
   name: NLNOG RING LG
   asn: 199036
   site: https://ring.nlnog.net/
-peeringdb:
-  name: PeeringDB
-  site: https://peeringdb.com/
-as59715:
-  name: SBTAP
-  site: https://as59715.net
-as20495:
-  asn: 20495
-  name: WD6.net B.V.
-  site: https://wd6.net
-as57782:
-  asn: 57782
-  name: Cynthia Revstrom
-  site: https://cynthia.re/
-as48635:
-  asn: 48635
-  name: Tom Tunberg
-  site: https://insight.tv
-as39767:
-  asn: 39767
-  name: Sargasso (UK)
-  site: http://www.sargasso.net.uk/
-as42579:
-  asn: 42579
-  name: Sargasso (EU)
-  site: http://www.sargasso.net.uk/
-as60079:
-  asn: 60079
-  name: Electromagnetic Field
-  site: https://www.emfcamp.org/
-as6893:
-  asn: 6893
-  name: Saitis Networks
-  site: https://www.saitis.net
-as55064:
-  asn: 55064
-  name: Arista Networks
-  site: https://www.arista.com
-  
+as199071:
+  asn: 199071
+  name: Jan Prunk K.D.
+as202053:
+  asn: 202053
+  name: UpCloud Ltd
+as203993:
+  asn: 203993
+  name: S.J.M. Steffann
+as206477:
+  asn: 206477
+  name: Wolfined
+as206570:
+  asn: 206570
+  name: i3D.net B.V
