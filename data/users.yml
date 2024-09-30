@@ -5,7 +5,7 @@ Acontios:
   - as34019
   - as34997
   country: fr
-  full_name: "Cl\xE9ment Cavadore"
+  full_name: Clément Cavadore
   rir_handle:
   - CCA-RIPE
   - CCAV-RIPE
@@ -94,6 +94,13 @@ Cybertinus:
   full_name: Tijn Buijs
   rir_handle:
   - TIJN-RIPE
+Cynthia:
+  companies:
+  - as57782
+  country: se
+  full_name: Cynthia Revström
+  rir_handle:
+  - CMR-RIPE
 Da_P:
   companies:
   - as15169
@@ -102,17 +109,6 @@ Da_P:
   full_name: Pim van Pelt
   rir_handle:
   - PBVP1-RIPE
-davidc:
-  companies:
-    - as8330
-    - as39767
-    - as41230
-    - as42579
-    - as60079
-  country: eu
-  full_name: David Croft
-  rir_handle:
-    - DC5052-RIPE
 Daluege:
   companies:
   - as2819
@@ -289,7 +285,7 @@ KeefR:
   companies:
   - as8560
   country: de
-  full_name: "Matthias M\xFCller"
+  full_name: Matthias Müller
   rir_handle: []
 Kippenijzer:
   companies:
@@ -318,7 +314,7 @@ LM:
   - as8674
   - as8995
   country: se
-  full_name: "LM Jogb\xE4ck"
+  full_name: LM Jogbäck
   rir_handle:
   - LMJ1-RIPE
 LeslieC:
@@ -378,6 +374,13 @@ Medivh:
   full_name: Chris Kuhles
   rir_handle:
   - CK5000-RIPE
+Michael_wd6:
+  companies:
+  - as20495
+  country: nl
+  full_name: Michaël Jonkers
+  rir_handle:
+  - MJ84126-RIPE
 Michiel:
   companies:
   - as5580
@@ -414,7 +417,7 @@ Odjuret:
   companies:
   - as51040
   country: se
-  full_name: "Ola Nystr\xF6m"
+  full_name: Ola Nyström
   rir_handle:
   - ON626-RIPE
 Perseus:
@@ -487,7 +490,7 @@ SP18:
   companies:
   - as30781
   country: fr
-  full_name: "J\xE9r\xF4me Descoux"
+  full_name: Jérôme Descoux
   rir_handle:
   - LFML-RIPE
 STL:
@@ -572,7 +575,7 @@ Tigerdyr:
   companies:
   - as15516
   country: dk
-  full_name: "S\xF8ren Skou"
+  full_name: Søren Skou
   rir_handle:
   - SPS4-RIPE
 Tisteagle:
@@ -585,7 +588,7 @@ ToM:
   companies:
   - as16273
   country: fi
-  full_name: "Toni Syv\xE4nen"
+  full_name: Toni Syvänen
   rir_handle: []
 Toshima:
   companies:
@@ -762,7 +765,7 @@ aman:
   companies:
   - as3292
   country: se
-  full_name: "Daniel \xC5man"
+  full_name: Daniel Åman
   rir_handle:
   - AMAN-RIPE
 ambo:
@@ -895,7 +898,7 @@ buki:
   - as2819
   - as1903
   country: cz
-  full_name: "Marek Kozlovsk\xFD"
+  full_name: Marek Kozlovský
   rir_handle:
   - BUKI-RIPE
 buraglio:
@@ -1000,6 +1003,17 @@ davew:
   full_name: Dave Wilson
   rir_handle:
   - dw238-ripe
+davidc:
+  companies:
+  - as8330
+  - as39767
+  - as41230
+  - as42579
+  - as60079
+  country: eu
+  full_name: David Croft
+  rir_handle:
+  - DC5052-RIPE
 deBruijn:
   companies:
   - as5580
@@ -1035,7 +1049,7 @@ dr:
   companies:
   - as5401
   country: de
-  full_name: "Daniel R\xF6sen"
+  full_name: Daniel Rösen
   rir_handle:
   - CLUE-RIPE
   - DARO-RIPE
@@ -1072,7 +1086,7 @@ emj:
   - as43948
   - as42708
   country: se
-  full_name: "Eric Lindsj\xF6"
+  full_name: Eric Lindsjö
   rir_handle:
   - EMJ-RIPE
 equinox:
@@ -1085,7 +1099,7 @@ equinox:
 escapechen:
   companies: []
   country: de
-  full_name: "Marcel K\xFChn"
+  full_name: Marcel Kühn
   rir_handle: []
 evan:
   companies:
@@ -1189,7 +1203,7 @@ hassel:
   - as16150
   - as6797
   country: se
-  full_name: "Carl Hasselstr\xF6m"
+  full_name: Carl Hasselström
   rir_handle: []
 hkkl:
   companies:
@@ -1198,7 +1212,7 @@ hkkl:
   - as42297
   - as34387
   country: fi
-  full_name: "Henri Gr\xF6nroos"
+  full_name: Henri Grönroos
   rir_handle:
   - HG627-RIPE
 hlkv6:
@@ -1278,6 +1292,19 @@ job:
   full_name: Job Snijders
   rir_handle:
   - JWJS1-RIPE
+jsalo:
+  companies:
+  - as49282
+  country: fi
+  full_name: Jari Salo
+  rir_handle:
+  - JS24207-RIPE
+jwbensley:
+  full_name: James Bensley
+  country: DE
+  rir_handle: JBIL-RIPE
+  companies:
+  - as5405
 kajtzu:
   companies:
   - as29154
@@ -1389,7 +1416,7 @@ lpe:
   companies:
   - as20626
   country: se
-  full_name: "Lars Peter Engstr\xF6m"
+  full_name: Lars Peter Engström
   rir_handle: []
 lwb:
   companies:
@@ -1410,7 +1437,7 @@ maagic:
   companies:
   - as35382
   country: fi
-  full_name: "Antero Katajam\xE4ki"
+  full_name: Antero Katajamäki
   rir_handle:
   - AK3955-RIPE
 macTijn:
@@ -1508,7 +1535,7 @@ mephisto:
   companies:
   - as29008
   country: de
-  full_name: "Bastian M\xE4user"
+  full_name: Bastian Mäuser
   rir_handle:
   - BM848-RIPE
 mha:
@@ -1549,7 +1576,7 @@ monstah:
   companies:
   - as20514
   country: se
-  full_name: "Fredrik Lagertr\xE4d"
+  full_name: Fredrik Lagerträd
   rir_handle: []
 mr-50986:
   companies:
@@ -1730,14 +1757,14 @@ radical:
   companies:
   - as29518
   country: se
-  full_name: "Fredrik V\xF6cks"
+  full_name: Fredrik Vöcks
   rir_handle:
   - RAD-RIPE
 rasm:
   companies:
   - as33886
   country: se
-  full_name: "Rasmus \xC5berg"
+  full_name: Rasmus Åberg
   rir_handle:
   - RA142-RIPE
 reaper^:
@@ -1880,7 +1907,7 @@ skorpyFFM:
   - as64475
   - as58145
   country: de
-  full_name: "Magnus Fr\xFChling"
+  full_name: Magnus Frühling
   rir_handle:
   - MF16389-RIPE
 slh:
@@ -1931,7 +1958,7 @@ suom1:
   companies:
   - embark
   country: fi
-  full_name: "Markus Viitam\xE4ki"
+  full_name: Markus Viitamäki
   rir_handle:
   - MAVI-RIPE
 swaio:
@@ -1946,8 +1973,20 @@ swaio:
 syke:
   companies: []
   country: be
-  full_name: "H\xE4kkinen Esa"
+  full_name: Häkkinen Esa
   rir_handle: []
+sym:
+  companies:
+  - as48635
+  full_name: Tom Tunberg
+  country: nl
+techwolf12:
+  companies:
+  - as206477
+  full_name: Christiaan de Die le Clercq
+  country: nl
+  rir_handle:
+  - CDDL1-RIPE
 teun:
   companies:
   - as12859
@@ -2024,6 +2063,12 @@ ukar:
   country: se
   full_name: Ulrik Karrman
   rir_handle: []
+vincentz:
+  companies:
+  - as55064
+  country: de
+  full_name: Vincentz Petzholtz
+  rir_handle: []
 vlahti:
   companies:
   - as49282
@@ -2082,7 +2127,7 @@ zfx:
   companies:
   - as197541
   country: se
-  full_name: "Timh Bergstr\xF6m"
+  full_name: Timh Bergström
   rir_handle:
   - TB5052-RIPE
 ziga:
@@ -2097,7 +2142,7 @@ zin:
   companies:
   - as35382
   country: fi
-  full_name: "Esa L\xE4hteenm\xE4ki"
+  full_name: Esa Lähteenmäki
   rir_handle:
   - EL3487-RIPE
 zyx:
@@ -2111,48 +2156,3 @@ zyx:
   - PM3469-RIPE
   - PEM777-RIPE
   - ZYX-RIPE
-techwolf12:
-  companies:
-    - as206477
-  full_name: "Christiaan de Die le Clercq"
-  country: nl
-  rir_handle:
-    - CDDL1-RIPE
-Michael_wd6:
-  companies: 
-    - as20495
-  country: nl
-  full_name: Michaël Jonkers
-  rir_handle: 
-    - MJ84126-RIPE
-Cynthia:
-  companies:
-    - as57782
-  country: se
-  full_name: "Cynthia Revström"
-  rir_handle:
-    - CMR-RIPE
-sym:
-  companies:
-    - as48635
-  full_name: "Tom Tunberg"
-  country: nl
-jsalo:
-  companies:
-    - as49282
-  country: fi
-  full_name: "Jari Salo"
-  rir_handle:
-    - JS24207-RIPE
-jwbensley:
-  full_name: James Bensley
-  country: DE
-  rir_handle: JBIL-RIPE
-  companies:
-  - as5405
-vincentz:
-  companies:
-     - as55064
-  country: de
-  full_name: Vincentz Petzholtz
-  rir_handle: []
