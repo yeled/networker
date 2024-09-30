@@ -887,4 +887,7 @@ as55064:
   asn: 55064
   name: Arista Networks
   site: https://www.arista.com
-  
+as61282:
+  name: Brainmill
+  asn: 61282
+  site: https://neanet.se
