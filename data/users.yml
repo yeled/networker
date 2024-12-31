@@ -2155,3 +2155,9 @@ vincentz:
   country: de
   full_name: Vincentz Petzholtz
   rir_handle: []
+f0o:
+  companies:
+    - as203038
+  country: SE
+  full_name: Daniel 'f0o' Preussker
+  rir_handle: []
