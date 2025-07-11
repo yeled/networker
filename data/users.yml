@@ -1270,7 +1270,6 @@ job:
   companies:
   - as199036
   - as15562
-  - fastly
   - openbsd
   - peeringdb
   country: nl
