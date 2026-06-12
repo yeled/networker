@@ -63,12 +63,11 @@ Captainahab:
   full_name: Aki Barkarson
   rir_handle:
   - AHB55-RIPE
-Champie:
+Champers:
   companies:
-  - as8677
-  - as41233
   - as35701
   - as29533
+  - as28988
   country: be
   full_name: Bart Champagne
   rir_handle:
